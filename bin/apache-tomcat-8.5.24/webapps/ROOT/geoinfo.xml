@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tecnica id="1003">
+	<metadados>
+		<titulo>Quantidade de Jovens Matriculados no Projovem Urbano</titulo>
+		<grupos>
+			<grupo tipo="numerico">2010</grupo>
+		</grupos>
+	</metadados>
+	<dados>
+		<dado>
+			<id>1</id>
+			<nome>Arquivos</nome>
+			<valores/>
+			<noPai>raiz</noPai>
+			<descricao>Estrutura dos Arquivos</descricao>
+			<nivel>Geral</nivel>
+		</dado>
+		<dado>
+			<id>2</id>
+			<nome>Dados Estatísticos</nome>
+			<valores/>
+			<noPai>1</noPai>
+			<descricao>Dados Estatísticos</descricao>
+			<nivel>Tipo</nivel>
+		</dado>
+		<dado>
+			<id>3</id>
+			<nome>Dados de Navegação</nome>
+			<valores/>
+			<noPai>1</noPai>
+			<descricao>Dados de Navegação</descricao>
+			<nivel>Tipo</nivel>
+		</dado>
+		<dado>
+			<id>4</id>
+			<nome>Administrações Hidroviárias</nome>
+			<valores/>
+			<noPai>1</noPai>
+			<descricao>Administrações Hidroviárias</descricao>
+			<nivel>Tipo</nivel>
+		</dado>
+		<dado>
+			<id>5</id>
+			<nome>Rodovias, Ferrovias e Sedes Municipais</nome>
+			<valores/>
+			<noPai>1</noPai>
+			<descricao>Rodovias, Ferrovias e Sedes Municipais</descricao>
+			<nivel>Tipo</nivel>
+		</dado>
+		<dado>
+			<id>6</id>
+			<nome>Quilombolas e Terras Indígenas</nome>
+			<valores/>
+			<noPai>1</noPai>
+			<descricao>Quilombolas e Terras Indígenas</descricao>
+			<nivel>Tipo</nivel>
+		</dado>
+		<dado>
+			<id>7</id>
+			<nome>Hidrografia e Pontos de Origem e Destinos</nome>
+			<valores/>
+			<noPai>1</noPai>
+			<descricao>Hidrografia e Pontos de Origem e Destinos</descricao>
+			<nivel>Tipo</nivel>
+		</dado>
+		<dado>
+			<id>8</id>
+			<nome>Unidades de Conservação</nome>
+			<valores/>
+			<noPai>1</noPai>
+			<descricao>Unidades de Conservação</descricao>
+			<nivel>Tipo</nivel>
+		</dado>
+		<dado>
+			<id>9</id>
+			<nome>Barragens e Eclusas</nome>
+			<valores/>
+			<noPai>1</noPai>
+			<descricao>Barragens e Eclusas</descricao>
+			<nivel>Tipo</nivel>
+		</dado>
+		<dado>
+			<id>10</id>
+			<nome>Países</nome>
+			<valores/>
+			<noPai>1</noPai>
+			<descricao>Países</descricao>
+			<nivel>Tipo</nivel>
+		</dado>
+		<dado>
+			<id>11</id>
+			<nome>Indústrias Esmagadoras de Soja</nome>
+			<valores/>
+			<noPai>1</noPai>
+			<descricao>Indústrias Esmagadoras de Soja</descricao>
+			<nivel>Tipo</nivel>
+		</dado>
+		<dado>
+			<id>12</id>
+			<nome>Dados de Demanda</nome>
+			<valores/>
+			<noPai>1</noPai>
+			<descricao>Dados de Demanda</descricao>
+			<nivel>Tipo</nivel>
+		</dado>
+		<dado>
+			<id>17</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>2</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>18</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>2</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>19</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>3</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>20</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>4</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>21</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>4</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>22</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>4</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>23</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>4</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>24</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>4</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>25</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>5</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>26</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>5</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>27</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>5</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>28</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>5</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>29</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>5</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>30</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>5</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>31</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>5</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>32</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>5</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>33</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>5</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>34</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>6</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>35</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>6</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>36</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>6</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>37</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>6</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>38</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>7</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>39</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>7</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>40</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>8</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>41</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>8</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>42</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>8</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>43</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>9</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>44</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>9</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>45</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>9</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>46</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>9</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>47</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>10</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>48</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>10</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>49</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>10</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>50</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>10</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>51</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>10</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>52</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>10</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>53</id>
+			<nome> </nome>
+			<valores/>
+			<noPai>10</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>54</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>11</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>55</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>11</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>56</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>11</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>57</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>11</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>58</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>11</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>59</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>12</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>60</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>12</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>61</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>12</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>62</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>12</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>63</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>12</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>64</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>12</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>65</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>12</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>66</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>12</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>67</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>12</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>68</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>12</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>69</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>12</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>70</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>12</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>71</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>12</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>72</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>12</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+		<dado>
+			<id>73</id>
+			<nome> </nome>
+			<valores>
+				<valor>teste</valor>
+			</valores>
+			<noPai>12</noPai>
+			<descricao> </descricao>
+			<nivel>Arquivo</nivel>
+		</dado>
+	</dados>
+</tecnica>

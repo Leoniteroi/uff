@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tecnica id="3007">
+    <metadados>
+        <titulo>Seguro Desemprego - Requerimentos x Assegurados</titulo>
+        <altura>300</altura>
+        <largura>720</largura>
+    </metadados>
+    <series>
+        <serie>
+            <titulo>Trabalhadores que requerem seg. desemprego</titulo>
+            <descricao>Número de trabalhadores que requereram o seguro-desemprego/modalidade Trabalhador Formal.</descricao>
+            <formato> Un.</formato>
+            <fonte>https://i3gov.planejamento.gov.br/</fonte>
+            <dados>
+                <dado>
+                    <valores>
+                        <valor grupo="2003">
+                            <montante>5051407</montante>
+                        </valor>
+                        <valor grupo="2004">
+                            <montante>4892760</montante>
+                        </valor>
+                        <valor grupo="2005">
+                            <montante>5473693</montante>
+                        </valor>
+                        <valor grupo="2006">
+                            <montante>5857041</montante>
+                        </valor>
+                        <valor grupo="2007">
+                            <montante>6275716</montante>
+                        </valor>
+                        <valor grupo="2008">
+                            <montante>6950857</montante>
+                        </valor>
+                        <valor grupo="2009">
+                            <montante>7485475</montante>
+                        </valor>
+                        <valor grupo="2010">
+                            <montante>4875035</montante>
+                        </valor>
+                    </valores>
+                </dado>
+            </dados>
+        </serie>
+        <serie>
+            <titulo>Pessoas seguradas pelo seg. desemprego</titulo>
+            <descricao>Total de pessoas seguradas pelo seguro-desemprego/ modalidade Trabalhador Formal.</descricao>
+            <formato> Un.</formato>
+            <fonte>https://i3gov.planejamento.gov.br/</fonte>
+            <dados>
+                <dado>
+                    <valores>
+                        <valor grupo="2003">
+                            <montante>4971712</montante>
+                        </valor>
+                        <valor grupo="2004">
+                            <montante>4812008</montante>
+                        </valor>
+                        <valor grupo="2005">
+                            <montante>5362968</montante>
+                        </valor>
+                        <valor grupo="2006">
+                            <montante>5749511</montante>
+                        </valor>
+                        <valor grupo="2007">
+                            <montante>6149789</montante>
+                        </valor>
+                        <valor grupo="2008">
+                            <montante>6816600</montante>
+                        </valor>
+                        <valor grupo="2009">
+                            <montante>7330864</montante>
+                        </valor>
+                        <valor grupo="2010">
+                            <montante>4774111</montante>
+                        </valor>
+                    </valores>
+                </dado>
+            </dados>
+        </serie>
+    </series>
+</tecnica>

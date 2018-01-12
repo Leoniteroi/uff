@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tecnica id="1002">
+    <metadados>
+        <titulo>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</titulo>
+        <grupos>
+            <grupo tipo="numerico">2009</grupo>
+            <grupo tipo="numerico">2010</grupo>
+        </grupos>
+    </metadados>
+    <dados>
+        <dado>
+            <id>1</id>
+            <nome>Brasil</nome>
+            <valores>
+                <valor grupo="2009">90295</valor>
+                <valor grupo="2010">278781</valor>
+            </valores>
+            <noPai>raiz</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+        <dado>
+            <id>2</id>
+            <nome>Norte</nome>
+            <valores>
+                <valor grupo="2009">13350</valor>
+                <valor grupo="2010">51044</valor>
+            </valores>
+            <noPai>1</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+        <dado>
+            <id>3</id>
+            <nome>Centro-Oeste</nome>
+            <valores>
+                <valor grupo="2009">25814</valor>
+                <valor grupo="2010">73135</valor>
+            </valores>
+            <noPai>1</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+        <dado>
+            <id>4</id>
+            <nome>Sul</nome>
+            <valores>
+                <valor grupo="2009">51131</valor>
+                <valor grupo="2010">154602</valor>
+            </valores>
+            <noPai>1</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+        <dado>
+            <id>5</id>
+            <nome>Acre</nome>
+            <valores>
+                <valor grupo="2009">1939</valor>
+                <valor grupo="2010">2684</valor>
+            </valores>
+            <noPai>2</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+        <dado>
+            <id>6</id>
+            <nome>Amapá</nome>
+            <valores>
+                <valor grupo="2009">12</valor>
+                <valor grupo="2010">1645</valor>
+            </valores>
+            <noPai>2</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+        <dado>
+            <id>7</id>
+            <nome>Amazonas</nome>
+            <valores>
+                <valor grupo="2009">1281</valor>
+                <valor grupo="2010">12774</valor>
+            </valores>
+            <noPai>2</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+        <dado>
+            <id>8</id>
+            <nome>Pará</nome>
+            <valores>
+                <valor grupo="2009">7683</valor>
+                <valor grupo="2010">28593</valor>
+            </valores>
+            <noPai>2</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+        <dado>
+            <id>8</id>
+            <nome>Rondonia</nome>
+            <valores>
+                <valor grupo="2009">652</valor>
+                <valor grupo="2010">3942</valor>
+            </valores>
+            <noPai>2</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+        <dado>
+            <id>9</id>
+            <nome>Roraima</nome>
+            <valores>
+                <valor grupo="2009">1096</valor>
+                <valor grupo="2010">1406</valor>
+            </valores>
+            <noPai>2</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+        <dado>
+            <id>10</id>
+            <nome>Tocantins</nome>
+            <valores>
+                <valor grupo="2009">687</valor>
+                <valor grupo="2010">3561</valor>
+            </valores>
+            <noPai>2</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+
+        <dado>
+            <id>11</id>
+            <nome>Distrito Federal</nome>
+            <valores>
+                <valor grupo="2009">1873</valor>
+                <valor grupo="2010">4896</valor>
+            </valores>
+            <noPai>3</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+        <dado>
+            <id>12</id>
+            <nome>Goiás</nome>
+            <valores>
+                <valor grupo="2009">13928</valor>
+                <valor grupo="2010">43488</valor>
+            </valores>
+            <noPai>3</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+        <dado>
+            <id>13</id>
+            <nome>Mato Grosso</nome>
+            <valores>
+                <valor grupo="2009">6775</valor>
+                <valor grupo="2010">17938</valor>
+            </valores>
+            <noPai>3</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+        <dado>
+            <id>14</id>
+            <nome>Mato Grosso do Sul</nome>
+            <valores>
+                <valor grupo="2009">5111</valor>
+                <valor grupo="2010">11709</valor>
+            </valores>
+            <noPai>3</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+        <dado>
+            <id>15</id>
+            <nome>Paraná</nome>
+            <valores>
+                <valor grupo="2009">18601</valor>
+                <valor grupo="2010">54503</valor>
+            </valores>
+            <noPai>4</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+        <dado>
+            <id>16</id>
+            <nome>Rio Grande do Sul</nome>
+            <valores>
+                <valor grupo="2009">20772</valor>
+                <valor grupo="2010">68509</valor>
+            </valores>
+            <noPai>4</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+        <dado>
+            <id>17</id>
+            <nome>Santa Catarina</nome>
+            <valores>
+                <valor grupo="2009">12258</valor>
+                <valor grupo="2010">31590</valor>
+            </valores>
+            <noPai>4</noPai>
+            <descricao>Quantidade de unidades habitacionais contratadas pelo programa Minha Casa Minha Vida</descricao>
+        </dado>
+    </dados>
+</tecnica>

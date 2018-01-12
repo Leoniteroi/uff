@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tecnica id="1004">
+    <metadados>
+        <titulo>Quantidade de Jovens Matriculados no Projovem Urbano</titulo>
+        <grupos>
+            <grupo tipo="numerico">2010</grupo>
+        </grupos>
+    </metadados>
+    <dados>
+        <dado>
+            <id>1</id>
+            <nome>Brasil</nome>
+            <valores>
+                <valor grupo="2010">59399</valor>
+            </valores>
+            <noPai>raiz</noPai>
+            <descricao>Quantidade de Jovens Matriculados no Projovem Urbano</descricao>
+            <nivel>País</nivel>
+        </dado>
+        <dado>
+            <id>2</id>
+            <nome>Norte</nome>
+            <valores>
+                <valor grupo="2010">22245</valor>
+            </valores>
+            <noPai>1</noPai>
+            <descricao>Quantidade de Jovens Matriculados no Projovem Urbano</descricao>
+            <nivel>Região</nivel>
+        </dado>
+        <dado>
+            <id>5</id>
+            <nome>Amazonas</nome>
+            <valores>
+                <valor grupo="2010">4000</valor>
+            </valores>
+            <noPai>2</noPai>
+            <descricao>Quantidade de Jovens Matriculados no Projovem Urbano</descricao>
+            <nivel>Estado</nivel>
+        </dado>
+        <dado>
+            <id>6</id>
+            <nome>Pará</nome>
+            <valores>
+                <valor grupo="2010">18245</valor>
+            </valores>
+            <noPai>2</noPai>
+            <descricao>Quantidade de Jovens Matriculados no Projovem Urbano</descricao>
+            <nivel>Estado</nivel>
+        </dado>
+        <dado>
+            <id>3</id>
+            <nome>Nordeste</nome>
+            <valores>
+                <valor grupo="2010">34354</valor>
+            </valores>
+            <noPai>1</noPai>
+            <descricao>Dados do Nordeste</descricao>
+            <nivel>Região</nivel>
+        </dado>
+        <dado>
+            <id>7</id>
+            <nome>Ceará</nome>
+            <valores>
+                <valor grupo="2010">18200</valor>
+            </valores>
+            <noPai>3</noPai>
+            <descricao>Quantidade de Jovens Matriculados no Projovem Urbano</descricao>
+            <nivel>Estado</nivel>
+        </dado>
+        <dado>
+            <id>8</id>
+            <nome>Pernambuco</nome>
+            <valores>
+                <valor grupo="2010">16154</valor>
+            </valores>
+            <noPai>3</noPai>
+            <descricao>Quantidade de Jovens Matriculados no Projovem Urbano</descricao>
+            <nivel>Estado</nivel>
+        </dado>
+        <dado>
+            <id>4</id>
+            <nome>Centro-Oeste</nome>
+            <valores>
+                <valor grupo="2010">2800</valor>
+            </valores>
+            <noPai>1</noPai>
+            <descricao>Quantidade de Jovens Matriculados no Projovem Urbano</descricao>
+            <nivel>Região</nivel>
+        </dado>
+        <dado>
+            <id>9</id>
+            <nome>Goiás</nome>
+            <valores>
+                <valor grupo="2010">2800</valor>
+            </valores>
+            <noPai>4</noPai>
+            <descricao>Quantidade de Jovens Matriculados no Projovem Urbano</descricao>
+            <nivel>Estado</nivel>
+        </dado>
+    </dados>
+</tecnica>

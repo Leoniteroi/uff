@@ -1,0 +1,205 @@
+input, select {
+    font-size:0.9em;
+}
+
+table {
+    margin-top:-10px;
+    margin-left:7px;
+}
+
+h4 {
+    font-size:1.1em;
+    text-decoration:none;
+    font-weight:normal;
+    color:#23A4FF;
+}
+
+a {
+    color:#23A4FF;
+}
+
+.containerVispublica #center-container{
+    background-color: transparent;
+}
+
+.containerVispublica #right-container{
+    background: none repeat scroll 0 0 transparent !important;
+    border-bottom: 0 none;
+    border-left: 1px dashed #000000;
+}
+
+.containerVispublica #left-container{
+    border-right: 1px dashed #000000;
+}
+
+.containerVispublica #inner-details{
+    font-size: 12px;
+}
+
+
+
+#id-list{
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 800px;
+    background-color: transparent !important;
+    border: none !important;
+}
+
+#id-list li{
+    float: left;
+    list-style: none outside none;
+    margin-bottom: 3px;
+    margin-right: 15px;
+}
+
+.container{
+    /*border-radius: 10px 10px 10px 10px;
+    background: #F6F6F6;
+    border: 1px solid #BBBBBB;*/
+    height: 1220px;
+    margin:0 auto;
+    position:relative;
+    
+    background-color: #F6F6F6;
+    border: 1px solid #BBBBBB;
+    border-radius: 10px 10px 10px 10px;
+    padding-bottom: 5px;
+    padding-top: 0px;
+    text-align: justify;
+    min-height: 600px;
+}
+
+
+.containerAPIGoogle{
+    background: #F6F6F6; /*none repeat scroll 0 0 #FFFFFF;*/
+    border: 1px solid #BBBBBB;
+    border-radius: 10px 10px 10px 10px;
+    font-family: "Lucida Grande",Verdana;
+    font-size: 0.9em;
+    height: auto;
+    margin: 10px;
+    padding: 5px;
+    position: relative;
+    width: auto;
+}
+
+.containerAPIHighCharts{
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #BBBBBB;
+    border-radius: 10px 10px 10px 10px;
+    font-family: "Lucida Grande",Verdana;
+    font-size: 0.9em;
+    height: auto;
+    margin: 10px auto;
+    padding: 5px;
+    position: relative;
+    width:auto;
+}
+
+.error-container{
+    background: none repeat scroll 0 0 #FFE0E0;
+    border: 1px solid #BA4646;
+    border-radius: 5px 5px 5px 5px;
+    color: #990000;
+    font-family: "Lucida Grande",Verdana;
+    font-size: 12px;
+    font-weight: bold;
+    height: auto !important;
+    margin: 10px;
+    padding: 5px;
+    position: relative;
+    text-align: center;
+    width: 800px;
+}
+
+.temporalWrapper {
+    text-align: left;
+}
+
+.temporalWrapper select {
+    width: 45%;
+    float: left;
+}
+
+.temporalWrapper .serieInfo {
+    display: inline-block;
+    background: url('../img/icon_info.png') center no-repeat;
+    height: 16px;
+    width: 16px;
+    margin-left: 3px;
+    margin-top: 1px;
+}
+
+.temporalWrapper .serieInfo-right {
+    float: right;
+    margin-left: auto;
+    margin-right: 3px;
+    margin-top: 1px;
+}
+
+.temporalWrapper > * {
+    z-index: 5;
+}
+
+.temporalWrapper .serieInfo-box {
+    display: none;
+    background: #fff;
+    position: absolute;
+    top: 3px;
+    width: 50%;
+    cursor: default;
+    box-shadow: 0 0 3px;
+    z-index: 10;
+    font-size: 12px;
+    line-height: 19px;
+}
+
+.temporalWrapper .serieInfo-box > div {
+    padding: 10px;
+}
+
+.temporalWrapper .serieInfo-box .serieInfo-box-header {
+    font-weight: bold;
+    text-align: left;
+    font-size: 14px;
+}
+
+.temporalWrapper .serieInfo-box .serieInfo-box-content {
+    text-align: justify;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.temporalWrapper .serieInfo-box .serieInfo-box-footer {
+    text-align: left;
+    color: #999;
+}
+
+.temporalWrapper .serieInfo-box .serieInfo-box-footer a {
+    text-decoration: underline;
+    color: #666;
+}
+
+.temporalWrapper a + select {
+    float: right;
+}
+
+.wrapper-sub-vis {
+    height: 150px;
+}
+
+.wrapper-sub-vis div {
+    width: 50%;
+    height: 100%;
+}
+
+.wrapper-sub-vis-a {
+    float: left;
+}
+
+.wrapper-sub-vis-b {
+    margin-left: 50%;
+}#1004 {
+
+}

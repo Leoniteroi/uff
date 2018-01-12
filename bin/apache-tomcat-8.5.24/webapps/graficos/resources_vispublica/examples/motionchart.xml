@@ -1,0 +1,106 @@
+<tecnica id="2002">
+    <metadados>
+        <titulo>Exemplo da visualização Motion Chart</titulo>
+        <grupos>
+            <grupo tipo="numerico">Famílias atendidas pelo Bolsa Família</grupo>
+            <grupo tipo="numerico">Famílias cadastradas no Cadastro único</grupo>
+            <grupo tipo="numerico">Famílias Referenciadas pelo Paif</grupo>
+            <grupo tipo="texto">Região</grupo>
+        </grupos>
+        <tipoGrafico>VBAR</tipoGrafico>
+        <largura>850</largura>
+        <altura>600</altura>
+    </metadados>
+    <dados>
+        <dado>
+            <nome>São Paulo</nome>
+            <data>2008</data>
+            <valores>
+                <valor grupo="Famílias atendidas pelo Bolsa Família">974803</valor>
+                <valor grupo="Famílias cadastradas no Cadastro único">1994548</valor>
+                <valor grupo="Famílias Referenciadas pelo Paif">1281488</valor>
+                <valor grupo="Região">Sudeste</valor>
+            </valores>
+        </dado>
+        <dado>
+            <nome>São Paulo</nome>
+            <data>2009</data>
+            <valores>
+                <valor grupo="Famílias atendidas pelo Bolsa Família">1138129</valor>
+                <valor grupo="Famílias cadastradas no Cadastro único">2117311</valor>
+                <valor grupo="Famílias Referenciadas pelo Paif">1499488</valor>
+                <valor grupo="Região">Sudeste</valor>
+            </valores>
+        </dado>
+        <dado>
+            <nome>São Paulo</nome>
+            <data>2010</data>
+            <valores>
+                <valor grupo="Famílias atendidas pelo Bolsa Família">1173848</valor>
+                <valor grupo="Famílias cadastradas no Cadastro único">2208725</valor>
+                <valor grupo="Famílias Referenciadas pelo Paif">2336499</valor>
+                <valor grupo="Região">Sudeste</valor>
+            </valores>
+        </dado>
+        <dado>
+            <nome>Rio de Janeiro</nome>
+            <data>2008</data>
+            <valores>
+                <valor grupo="Famílias atendidas pelo Bolsa Família">498378</valor>
+                <valor grupo="Famílias cadastradas no Cadastro único">861630</valor>
+                <valor grupo="Famílias Referenciadas pelo Paif">719639</valor>
+                <valor grupo="Região">Sudeste</valor>
+            </valores>
+        </dado>
+        <dado>
+            <nome>Rio de Janeiro</nome>
+            <data>2009</data>
+            <valores>
+                <valor grupo="Famílias atendidas pelo Bolsa Família">658726</valor>
+                <valor grupo="Famílias cadastradas no Cadastro único">942692</valor>
+                <valor grupo="Famílias Referenciadas pelo Paif">815639</valor>
+                <valor grupo="Região">Sudeste</valor>
+            </valores>
+        </dado>
+        <dado>
+            <nome>Rio de Janeiro</nome>
+            <data>2010</data>
+            <valores>
+                <valor grupo="Famílias atendidas pelo Bolsa Família">687863</valor>
+                <valor grupo="Famílias cadastradas no Cadastro único">942692</valor>
+                <valor grupo="Famílias Referenciadas pelo Paif">1086657</valor>
+                <valor grupo="Região">Sudeste</valor>
+            </valores>
+        </dado>
+        <dado>
+            <nome>Amazonas</nome>
+            <data>2008</data>
+            <valores>
+                <valor grupo="Famílias atendidas pelo Bolsa Família">222542</valor>
+                <valor grupo="Famílias cadastradas no Cadastro único">323854</valor>
+                <valor grupo="Famílias Referenciadas pelo Paif">235661</valor>
+                <valor grupo="Região">Norte</valor>
+            </valores>
+        </dado>
+        <dado>
+            <nome>Amazonas</nome>
+            <data>2009</data>
+            <valores>
+                <valor grupo="Famílias atendidas pelo Bolsa Família">263064</valor>
+                <valor grupo="Famílias cadastradas no Cadastro único">349562</valor>
+                <valor grupo="Famílias Referenciadas pelo Paif">264160</valor>
+                <valor grupo="Região">Norte</valor>
+            </valores>
+        </dado>
+        <dado>
+            <nome>Amazonas</nome>
+            <data>2010</data>
+            <valores>
+                <valor grupo="Famílias atendidas pelo Bolsa Família">278893</valor>
+                <valor grupo="Famílias cadastradas no Cadastro único">381904</valor>
+                <valor grupo="Famílias Referenciadas pelo Paif">323497</valor>
+                <valor grupo="Região">Norte</valor>
+            </valores>
+        </dado>
+    </dados>
+</tecnica>

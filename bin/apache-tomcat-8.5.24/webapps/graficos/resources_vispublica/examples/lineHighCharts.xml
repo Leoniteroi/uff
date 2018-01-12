@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tecnica id="3003">
+    <metadados>
+        <titulo>Número de Cines Mais Cultura implantados.</titulo>
+        <subTitulo></subTitulo>
+        <grupos>
+            <grupo tipo="numerico">2006</grupo>
+            <grupo tipo="numerico">2008</grupo>
+            <grupo tipo="numerico">2009</grupo>
+        </grupos>
+        <altura>500</altura>
+        <largura>900</largura>
+        <empilhado>false</empilhado>
+        <tituloEixoy>Unidade</tituloEixoy>
+        <formato> Un.</formato>
+    </metadados>
+    <dados>
+        <dado>
+            <nome>Espírito Santo</nome>
+            <valores>
+                <valor grupo="2006">3</valor>
+                <valor grupo="2008">0</valor>
+                <valor grupo="2009">4</valor>
+            </valores>
+        </dado>
+        <dado>
+            <nome>Minas Gerais</nome>
+            <valores>
+                <valor grupo="2006">8</valor>
+                <valor grupo="2008">0</valor>
+                <valor grupo="2009">19</valor>
+            </valores>
+        </dado>
+        <dado>
+            <nome>Rio de Janeiro</nome>
+            <valores>
+                <valor grupo="2006">5</valor>
+                <valor grupo="2008">0</valor>
+                <valor grupo="2009">21</valor>
+            </valores>
+        </dado>
+        <dado>
+            <nome>São Paulo</nome>
+            <valores>
+                <valor grupo="2006">7</valor>
+                <valor grupo="2008">4</valor>
+                <valor grupo="2009">31</valor>
+            </valores>
+        </dado>
+    </dados>
+</tecnica>

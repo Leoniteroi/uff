@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tecnica id="3002">
+    <metadados>
+        <titulo>Pontos de Leitura</titulo>
+        <subTitulo>Valor total executado pelo MinC no programa Pontos de Leitura.</subTitulo>
+        <grupos>
+            <grupo tipo="numerico">2009</grupo>
+            <grupo tipo="numerico">2010</grupo>
+        </grupos>
+        <altura>500</altura>
+        <largura>900</largura>
+        <empilhado>true</empilhado>
+        <tituloEixoy>Reais</tituloEixoy>
+        <formato> R$ </formato>
+    </metadados>
+    <dados>
+        <dado>
+            <nome>Rio Grande do Sul</nome>
+            <valores>
+                <valor grupo="2009">384000</valor>
+                <valor grupo="2010">752000</valor>
+            </valores>
+        </dado>
+        <dado>
+            <nome>Bahia</nome>
+            <valores>
+                <valor grupo="2009">360000</valor>
+                <valor grupo="2010">0</valor>
+            </valores>
+        </dado>
+        <dado>
+            <nome>Rio de Janeiro</nome>
+            <valores>
+                <valor grupo="2009">2573128.80</valor>
+                <valor grupo="2010">64000</valor>
+            </valores>
+        </dado>
+        <dado>
+            <nome>São Paulo</nome>
+            <valores>
+                <valor grupo="2009">320000</valor>
+                <valor grupo="2010">0</valor>
+            </valores>
+        </dado>
+    </dados>
+</tecnica>

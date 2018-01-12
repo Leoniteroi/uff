@@ -1,0 +1,190 @@
+/* 
+    Document   : vispublica_dashboard
+    Created on : 24/01/2013, 09:49:17
+    Author     : GUILHERME
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+.containerDashboardVisPublica{
+    background-color: #E2E7FD;
+    border: 1px solid #A9ADBD;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 5px 5px 12px #CCCCCC;
+    height: 665px;
+    margin-left: 10px;
+    padding: 10px;
+    width: 883px;
+}
+.mapWrapper{
+    border: 1px solid #CCCCCC;
+    width: 350px;
+    height: 350px;
+    float: left;
+    background: #EEE;
+}
+
+.mapWrapper svg{
+    margin-left: 15px;
+    margin-top: -30px;
+}
+
+
+.pieWrapper{
+    background: #EEE;
+    border: 1px solid #CCCCCC;
+    color: #333333;
+    float: left;
+    font-family: "Helvetica Neue",Arial,Sans-serif;
+    font-weight: 200;
+    height: 350px;
+    text-align: justify;
+    width: 378px;
+    margin-left: 15px;
+}
+
+.pieWrapper .lengendGroup text{
+    font-size: 14px;
+}
+
+
+
+.optionsWrapper {
+    background: none repeat scroll 0 0 #EEEEEE;
+    border: 1px solid #B0BDFE;
+    border-radius: 20px 20px 20px 20px;
+    float: right;
+    font-family: Verdana;
+    height: 465px;
+    width: 123px;
+}
+
+.optionsWrapper span.titulo {
+    background: none repeat scroll 0 0 #C4CEFF;
+    display: block;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.optionsWrapper div {
+    margin-top: 20px;
+    padding: 4px;
+    text-align: center;
+}
+
+.optionsWrapper input[type="radio"] {
+    margin: 0;
+}
+
+.optionsWrapper div table {
+    font-size: 12px;
+}
+
+.optionsWrapper div:last-child {
+    margin-top: 10px;
+}
+.optionsWrapper select{
+    width: 113px;
+}
+
+/***PROVISÓRIO***/
+.lengendGroup{
+    display:none;
+}
+
+.textGroup{
+    display:none;
+}
+
+.columnWrapper{
+    border: 1px solid #CCCCCC;
+    float: left;
+    height: 300px;
+    margin-top: 10px;
+    width: 745px;
+}
+
+div.bar {
+    display: inline-block;
+    width: 20px;
+    height: 75px; /* Gets overriden by D3-assigned height below */
+    margin-right: 2px;
+    background-color: teal;
+} 
+
+
+.ColumnWrapper {
+    font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.bar {
+    fill: steelblue;
+}
+
+.x.axis path {
+    display: none;
+}
+
+
+/*MAPA*/
+.str0 {
+    fill:#A3CFA1;
+    fill-opacity:1;
+    stroke:#ffffff;
+    stroke-opacity:1;
+    stroke-width:600;
+    stroke-miterlimit:4;
+    stroke-dasharray:none;
+}
+
+.str2 {
+    stroke:#1F1A17;stroke-width:281;
+}
+
+.str1 {
+    stroke:#72706F;stroke-width:352;
+}
+
+.str3 {
+    stroke:#1F1A17;stroke-width:704;
+}
+.fil3 {
+    fill:none;
+}/*
+.fil0 {fill:#BFD8FF}
+.fil1 {fill:#F4E2BA}
+.fil2 {fill:#FFF3E3}
+.fil4 {fill:#00FF00}
+.fil5 {fill:#FF9900}
+.fil6 {fill:#Ff0000}
+.fil7 {fill:#00FFFF}
+.fil8 {fill:#FFFF00}*/
+
+.str0:hover{
+    fill:rgb(99,173,95);
+}
+.estadoClicked {
+    fill:rgb(89,143,85);
+}
+.wrapperTitle {
+    background: url("bg_dashboard_title.png") repeat-x;
+    color: white;
+    font-family: Arial;
+    font-size: 34px;
+    height: 45px;
+    text-align: center;
+}
+

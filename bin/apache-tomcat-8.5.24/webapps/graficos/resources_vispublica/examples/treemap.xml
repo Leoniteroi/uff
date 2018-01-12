@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tecnica id="1001">
+    <metadados>
+        <titulo>Treemap de Noticias</titulo>
+        <grupos>
+            <grupo tipo="numerico">artigosRelacionados</grupo>
+        </grupos>
+        <onClick>openLink</onClick>
+        <cssTooltip>background-color: #fff; width:500px; height:170px; color:black; padding: 10px;</cssTooltip>
+        <paletaCores>padrão</paletaCores>
+        <largura>910</largura>
+        <altura>600</altura>
+    </metadados>
+    <dados>
+        <dado>
+            <id>1</id>
+            <nome>Treemap de Noticias</nome>
+            <valores>
+                <valor grupo="artigosRelacionados">4</valor>
+            </valores>
+            <noPai>raiz</noPai>
+            <descricao>Treemap de Notícias do Portal Notícias de Governo</descricao>
+            <link>noticias.i3gov.planejamento.gov.br/noticias</link>
+        </dado>
+        <dado>
+            <id>2</id>
+            <nome>Universidade Federal de Minas Gerais</nome>
+            <valores>
+                <valor grupo="artigosRelacionados">3</valor>
+            </valores>
+            <noPai>1</noPai>
+            <descricao>Notícias da Universidade Federal de Minas Gerais</descricao>
+            <link>www.ufmg.br</link>
+        </dado>
+        <dado>
+            <id>3</id>
+            <nome>Ministério do Esporte</nome>
+            <valores>
+                <valor grupo="artigosRelacionados">2</valor>
+            </valores>
+            <noPai>1</noPai>
+            <descricao>Notícias do Ministério do Esporte</descricao>
+            <link>www.esporte.gov.br</link>
+        </dado>
+        <dado>
+            <id>4</id>
+            <nome>Seminário internacional discute a prática da mediação no ambiente institucional</nome>
+            <valores>
+                <valor grupo="artigosRelacionados">12</valor>
+            </valores>
+            <noPai>2</noPai>
+            <descricao><![CDATA[<html> <p>Entre os dias 11 e 12 de abril será realizada a primeira edição do Seminário internacional de Mediação na Faculdade de Direito da UFMG. O evento tem o objetivo de sensibilizar a sociedade para a importância da mediação nos contextos institucionais e ainda apresentar práticas e experiências da mediação neste...</p> <p style='font-weight:bold; color:red;'>6 artigos relacionados</p> <p>Fonte: 11/03/2013 - Universidade Federal de Minas Gerais</p> <p>Para ler a notícia, clique no retângulo correspondente</p> </html> ]]>
+            </descricao>
+            <link>www.ufmg.br/online/arquivos/027560.shtml</link>
+            <cssFonte color="#fff" size="20px" weight="bold" padding="0 0 0 1px" />
+        </dado>
+        <dado>
+            <id>5</id>
+            <nome>Nívia Santiago: impacto do diabetes nas alterações cardíacas</nome>
+            <valores>
+                <valor grupo="artigosRelacionados">30</valor>
+            </valores>
+            <noPai>2</noPai>
+            <descricao><![CDATA[<html> <p>O papel cardioprotetor que o hormônio estrógeno exerce na pré-menopausa é afetado em mulheres diabéticas, afirma a pesquisadora Nívia Santiago, que acaba de defender tese de doutorado sobre o assunto no Instituto de Ciências Biológicas da UFMG. Desenvolvido em parte na Wake Forest University, na Carolina do Norte (Estados Unidos),...</p> <p style='font-weight:bold; color:red;'>30 artigos relacionados</p> <p>Fonte: 11/03/2013 - Universidade Federal de Minas Gerais</p> <p>Para ler a notícia, clique no retângulo correspondente</p> </html> ]]>
+            </descricao>
+            <cssFonte color="#fff" size="16px" weight="bold" padding="0 0 0 1px" />
+            <link>www.ufmg.br/online/arquivos/027567.shtml</link>
+        </dado>
+        <dado>
+            <id>6</id>
+            <nome>Grupo de choro comemora 90 anos do violonista Mozart Secundino em apresentação no Conservatório</nome>
+            <valores>
+                <valor grupo="artigosRelacionados">5</valor>
+            </valores>
+            <noPai>2</noPai>
+            <descricao><![CDATA[<html> <p>O projeto Pizindin – Choro no Palco recebe nesta segunda-feira, 11, o grupo Quem Não Chora Não Mama, que homenageará os 90 anos de Mozart Secundino. A apresentação será às 20h, no Conservatório UFMG, e contará com participações especiais como Waldir Silva e Tião do Bandolim. O grupo de música...</p> <p style='font-weight:bold; color:red;'>5 artigos relacionados</p> <p>Fonte: 11/03/2013 - Universidade Federal de Minas Gerais</p> <p>Para ler a notícia, clique no retângulo correspondente</p> </html> ]]>
+            </descricao>
+            <cssFonte color="#fff" size="14px" weight="bold" padding="0 0 0 1px" />
+            <link>www.ufmg.br/online/arquivos/027557.shtml</link>
+        </dado>
+        <dado>
+            <id>7</id>
+            <nome>11/03/2013 às 08h00 - Copa Brasil de Esgrima termina com duelo de estados</nome>
+            <valores>
+                <valor grupo="artigosRelacionados">20</valor>
+            </valores>
+            <noPai>3</noPai>
+            <descricao><![CDATA[<html> <p>A Copa Brasil de Esgrima em Cadeira de Rodas chegou ao fim neste domingo (10.03). Em combates acirrados, os atletas puderam defender seus estados na disputa por equipes – pela primeira vez na competição. Com vitórias na semi e na final, o Rio Grande do Sul sagrou-se campeão, seguido por...</p> <p style='font-weight:bold; color:red;'>20 artigos relacionados</p> <p>Fonte: 11/03/2013 - Ministério do Esporte</p> <p>Para ler a notícia, clique no retângulo correspondente</p> </html> ]]>
+            </descricao>
+            <cssFonte color="#fff" size="18px" weight="bold" padding="0 0 0 1px" />
+            <link>www.esporte.gov.br/ascom/noticiaDetalhe.jsp?idnoticia=10146</link>
+        </dado>
+        <dado>
+            <id>8</id>
+            <nome>11/03/2013 às 09h00 - Brasília conquista Troféu Eficiência na Copa Brasil de tênis de mesa</nome>
+            <valores>
+                <valor grupo="artigosRelacionados">16</valor>
+            </valores>
+            <noPai>3</noPai>
+            <descricao><![CDATA[<html> <p>Depois de quatro dias de emoção, muita luta, suor e dedicação, chegou ao fim neste domingo (10.03) a primeira etapa da temporada do Circuito Copa Brasil de tênis de mesa. Disputada no ginásio da AABB (Associação Atlética do Banco do Brasil), em Brasília, a competição marcou a abertura oficial do...</p> <p style='font-weight:bold; color:red;'>16 artigos relacionados</p> <p>Fonte: 11/03/2013 - Ministério do Esporte</p> <p>Para ler a notícia, clique no retângulo correspondente</p> </html> ]]>
+            </descricao>
+            <link>www.esporte.gov.br/ascom/noticiaDetalhe.jsp?idnoticia=10147</link>
+        </dado>
+    </dados>
+</tecnica>

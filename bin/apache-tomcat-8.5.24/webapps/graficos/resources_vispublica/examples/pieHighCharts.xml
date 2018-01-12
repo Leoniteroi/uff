@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tecnica id="3004">
+    <metadados>
+        <titulo>Unidades contratadas por pessoas com renda de 0 a 3 salários mínimos</titulo>
+        <subTitulo>Quantidade de unidades contratadas desde o início do programa Minha Casa Minha Vida.</subTitulo>
+        <grupos>
+            <grupo tipo="numerico">2009</grupo>
+            
+        </grupos>
+        
+        <tituloEixoy>Unidade</tituloEixoy>
+        <formato> Un.</formato>
+    </metadados>
+    <dados>
+        <dado>
+            <nome>Goiás</nome>
+            <valores>
+                <valor grupo="2009">2268</valor>
+                
+            </valores>
+        </dado>
+        <dado>
+            <nome>Minas Gerais</nome>
+            <valores>
+                <valor grupo="2009">3920</valor>
+               
+            </valores>
+        </dado>
+        <dado>
+            <nome>Rio Grande do Sul</nome>
+            <valores>
+                <valor grupo="2009">5040</valor>
+                
+            </valores>
+        </dado>
+        <dado>
+            <nome>São Paulo</nome>
+            <valores>
+                <valor grupo="2009">3993</valor>
+                
+            </valores>
+        </dado>
+    </dados>
+</tecnica>

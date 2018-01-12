@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tecnica id="2001">
+    <metadados>
+        <titulo>Famílias atendidas pelo programa Bolsa Família</titulo>
+        <grupos>
+            <grupo tipo="numerico">2009</grupo>
+            <grupo tipo="numerico">2010</grupo>
+        </grupos>
+    </metadados>
+    <dados>
+        <dado>
+            <nome>Brasil</nome>
+            <valores>
+                <valor grupo="2009"></valor>
+                <valor grupo="2010"></valor>
+            </valores>
+            <noPai>raiz</noPai>
+        </dado>
+        <dado>
+            <nome>Norte</nome>
+            <valores>
+                <valor grupo="2009">898268</valor>
+                <valor grupo="2010">959697</valor>
+            </valores>
+            <noPai>Brasil</noPai>
+        </dado>
+        <dado>
+            <nome>Amazonas</nome>
+            <valores>
+                <valor grupo="2009">263064</valor>
+                <valor grupo="2010">278893</valor>
+            </valores>
+            <noPai>Norte</noPai>
+        </dado>
+        <dado>
+            <nome>Pará</nome>
+            <valores>
+                <valor grupo="2009">635204</valor>
+                <valor grupo="2010">680804</valor>
+            </valores>
+            <noPai>Norte</noPai>
+        </dado>
+        <dado>
+            <nome>Sudeste</nome>
+            <valores>
+                <valor grupo="2009">2914801</valor>
+                <valor grupo="2010">2997426</valor>
+            </valores>
+            <noPai>Brasil</noPai>
+        </dado>
+        <dado>
+            <nome>Minas Gerais</nome>
+            <valores>
+                <valor grupo="2009">1117946</valor>
+                <valor grupo="2010">1135715</valor>
+            </valores>
+            <noPai>Sudeste</noPai>
+        </dado>
+        <dado>
+            <nome>Rio de Janeiro</nome>
+            <valores>
+                <valor grupo="2009">658726</valor>
+                <valor grupo="2010">687863</valor>
+            </valores>
+            <noPai>Sudeste</noPai>
+        </dado>
+        <dado>
+            <nome>São Paulo</nome>
+            <valores>
+                <valor grupo="2009">1138129</valor>
+                <valor grupo="2010">1173848</valor>
+            </valores>
+            <noPai>Sudeste</noPai>
+        </dado>
+    </dados>
+</tecnica>

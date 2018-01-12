@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tecnica id="3001">
+    <metadados>
+        <titulo>Quantidade de farmácias implantadas pelo programa Farmácia Popular do Brasil.</titulo>
+        <subTitulo>Quantidade de farmácias implantadas pelo programa Farmácia Popular do Brasil.</subTitulo>
+        <grupos>
+            <grupo tipo="numerico">2009</grupo>
+            <grupo tipo="numerico">2010</grupo>
+        </grupos>
+        <altura>500</altura>
+        <largura>900</largura>
+        <empilhado>true</empilhado>
+        <tituloEixoy>Unidade</tituloEixoy>
+        <formato> Un.</formato>
+    </metadados>
+    <dados>
+        <dado>
+            <nome>Espírito Santo</nome>
+            <valores>
+                <valor grupo="2009">56444</valor>
+                <valor grupo="2010">150174</valor>
+            </valores>
+        </dado>
+        <dado>
+            <nome>Minas Gerais</nome>
+            <valores>
+                <valor grupo="2009">291496</valor>
+                <valor grupo="2010">797853</valor>
+            </valores>
+        </dado>
+        <dado>
+            <nome>Rio de Janeiro</nome>
+            <valores>
+                <valor grupo="2009">178886</valor>
+                <valor grupo="2010">659567</valor>
+            </valores>
+        </dado>
+        <dado>
+            <nome>São Paulo</nome>
+            <valores>
+                <valor grupo="2008">338214</valor>
+                <valor grupo="2009">89898</valor>
+            </valores>
+        </dado>
+    </dados>
+</tecnica>

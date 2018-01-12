@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tecnica id="3005">
+    <metadados>
+        <min>-20000000</min>
+        <max>20000000</max>
+        <titulo>População residente no Brasil de 1998 a 2012</titulo>
+        <subTitulo>Fonte: http://tabnet.datasus.gov.br/cgi/ibge/popdescr.htm</subTitulo>
+        <grupos>
+            <grupo tipo="numerico">Masculino</grupo>
+            <grupo tipo="numerico">Feminino</grupo>
+        </grupos>
+        <altura>470</altura>
+        <largura>720</largura>
+        <empilhado>true</empilhado>
+        <tituloEixoy>Quantidade</tituloEixoy>
+        <formato> Un.</formato>
+    </metadados>
+    <dados>
+		<dado>
+			<nome>0</nome>
+			<data>2002</data>
+			<valores>
+				<valor grupo="Feminino">1624678</valor>
+				<valor grupo="Masculino">1685097</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>1</nome>
+			<data>2002</data>
+			<valores>
+				<valor grupo="Feminino">6664074</valor>
+				<valor grupo="Masculino">6891004</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>5</nome>
+			<data>2002</data>
+			<valores>
+				<valor grupo="Feminino">8376992</valor>
+				<valor grupo="Masculino">8647739</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>10</nome>
+			<data>2002</data>
+			<valores>
+				<valor grupo="Feminino">8814352</valor>
+				<valor grupo="Masculino">9027353</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>15</nome>
+			<data>2002</data>
+			<valores>
+				<valor grupo="Feminino">9177657</valor>
+				<valor grupo="Masculino">9275151</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>20</nome>
+			<data>2002</data>
+			<valores>
+				<valor grupo="Feminino">15579420</valor>
+				<valor grupo="Masculino">15303151</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>30</nome>
+			<data>2002</data>
+			<valores>
+				<valor grupo="Feminino">13349308</valor>
+				<valor grupo="Masculino">12681253</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>40</nome>
+			<data>2002</data>
+			<valores>
+				<valor grupo="Feminino">10213468</valor>
+				<valor grupo="Masculino">9597561</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>50</nome>
+			<data>2002</data>
+			<valores>
+				<valor grupo="Feminino">6676278</valor>
+				<valor grupo="Masculino">6161048</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>60</nome>
+			<data>2002</data>
+			<valores>
+				<valor grupo="Feminino">4497904</valor>
+				<valor grupo="Masculino">3886749</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>70</nome>
+			<data>2002</data>
+			<valores>
+				<valor grupo="Feminino">2571737</valor>
+				<valor grupo="Masculino">2057013</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>80</nome>
+			<data>2002</data>
+			<valores>
+				<valor grupo="Feminino">1126271</valor>
+				<valor grupo="Masculino">747674</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>0</nome>
+			<data>2003</data>
+			<valores>
+				<valor grupo="Feminino">1646623</valor>
+				<valor grupo="Masculino">1707998</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>1</nome>
+			<data>2003</data>
+			<valores>
+				<valor grupo="Feminino">6753205</valor>
+				<valor grupo="Masculino">6983949</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>5</nome>
+			<data>2003</data>
+			<valores>
+				<valor grupo="Feminino">8486637</valor>
+				<valor grupo="Masculino">8761781</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>10</nome>
+			<data>2003</data>
+			<valores>
+				<valor grupo="Feminino">8927487</valor>
+				<valor grupo="Masculino">9143383</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>15</nome>
+			<data>2003</data>
+			<valores>
+				<valor grupo="Feminino">9296772</valor>
+				<valor grupo="Masculino">9394218</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>20</nome>
+			<data>2003</data>
+			<valores>
+				<valor grupo="Feminino">15788617</valor>
+				<valor grupo="Masculino">15507880</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>30</nome>
+			<data>2003</data>
+			<valores>
+				<valor grupo="Feminino">13524988</valor>
+				<valor grupo="Masculino">12849018</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>40</nome>
+			<data>2003</data>
+			<valores>
+				<valor grupo="Feminino">10342488</valor>
+				<valor grupo="Masculino">9720428</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>50</nome>
+			<data>2003</data>
+			<valores>
+				<valor grupo="Feminino">6755091</valor>
+				<valor grupo="Masculino">6235196</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>60</nome>
+			<data>2003</data>
+			<valores>
+				<valor grupo="Feminino">4548262</valor>
+				<valor grupo="Masculino">3930423</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>70</nome>
+			<data>2003</data>
+			<valores>
+				<valor grupo="Feminino">2599499</valor>
+				<valor grupo="Masculino">2078913</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>80</nome>
+			<data>2003</data>
+			<valores>
+				<valor grupo="Feminino">1138169</valor>
+				<valor grupo="Masculino">755226</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>0</nome>
+			<data>2000</data>
+			<valores>
+				<valor grupo="Feminino">1577394</valor>
+				<valor grupo="Masculino">1635916</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>1</nome>
+			<data>2000</data>
+			<valores>
+				<valor grupo="Feminino">6471408</valor>
+				<valor grupo="Masculino">6691010</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>5</nome>
+			<data>2000</data>
+			<valores>
+				<valor grupo="Feminino">8139974</valor>
+				<valor grupo="Masculino">8402353</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>10</nome>
+			<data>2000</data>
+			<valores>
+				<valor grupo="Feminino">8570428</valor>
+				<valor grupo="Masculino">8777639</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>15</nome>
+			<data>2000</data>
+			<valores>
+				<valor grupo="Feminino">8920685</valor>
+				<valor grupo="Masculino">9019130</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>20</nome>
+			<data>2000</data>
+			<valores>
+				<valor grupo="Feminino">15128634</valor>
+				<valor grupo="Masculino">14862546</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>30</nome>
+			<data>2000</data>
+			<valores>
+				<valor grupo="Feminino">12970615</valor>
+				<valor grupo="Masculino">12319858</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>40</nome>
+			<data>2000</data>
+			<valores>
+				<valor grupo="Feminino">9935378</valor>
+				<valor grupo="Masculino">9332857</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>50</nome>
+			<data>2000</data>
+			<valores>
+				<valor grupo="Feminino">6506394</valor>
+				<valor grupo="Masculino">6000922</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>60</nome>
+			<data>2000</data>
+			<valores>
+				<valor grupo="Feminino">4389501</valor>
+				<valor grupo="Masculino">3792534</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>70</nome>
+			<data>2000</data>
+			<valores>
+				<valor grupo="Feminino">2511989</valor>
+				<valor grupo="Masculino">2009900</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>80</nome>
+			<data>2000</data>
+			<valores>
+				<valor grupo="Feminino">1100755</valor>
+				<valor grupo="Masculino">731350</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>0</nome>
+			<data>2001</data>
+			<valores>
+				<valor grupo="Feminino">1602748</valor>
+				<valor grupo="Masculino">1662382</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>1</nome>
+			<data>2001</data>
+			<valores>
+				<valor grupo="Feminino">6574752</valor>
+				<valor grupo="Masculino">6798556</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>5</nome>
+			<data>2001</data>
+			<valores>
+				<valor grupo="Feminino">8267083</valor>
+				<valor grupo="Masculino">8534320</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>10</nome>
+			<data>2001</data>
+			<valores>
+				<valor grupo="Feminino">8701174</valor>
+				<valor grupo="Masculino">8911730</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>15</nome>
+			<data>2001</data>
+			<valores>
+				<valor grupo="Feminino">9058379</valor>
+				<valor grupo="Masculino">9156630</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>20</nome>
+			<data>2001</data>
+			<valores>
+				<valor grupo="Feminino">15370085</valor>
+				<valor grupo="Masculino">15098987</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>30</nome>
+			<data>2001</data>
+			<valores>
+				<valor grupo="Feminino">13172997</valor>
+				<valor grupo="Masculino">12513477</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>40</nome>
+			<data>2001</data>
+			<valores>
+				<valor grupo="Feminino">10083596</valor>
+				<valor grupo="Masculino">9474315</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>50</nome>
+			<data>2001</data>
+			<valores>
+				<valor grupo="Feminino">6596534</valor>
+				<valor grupo="Masculino">6086199</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>60</nome>
+			<data>2001</data>
+			<valores>
+				<valor grupo="Feminino">4446823</valor>
+				<valor grupo="Masculino">3842506</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>70</nome>
+			<data>2001</data>
+			<valores>
+				<valor grupo="Feminino">2543524</valor>
+				<valor grupo="Masculino">2034805</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>80</nome>
+			<data>2001</data>
+			<valores>
+				<valor grupo="Feminino">1114237</valor>
+				<valor grupo="Masculino">739937</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>0</nome>
+			<data>2006</data>
+			<valores>
+				<valor grupo="Feminino">1743603</valor>
+				<valor grupo="Masculino">1808655</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>1</nome>
+			<data>2006</data>
+			<valores>
+				<valor grupo="Feminino">7148582</valor>
+				<valor grupo="Masculino">7392988</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>5</nome>
+			<data>2006</data>
+			<valores>
+				<valor grupo="Feminino">8972757</valor>
+				<valor grupo="Masculino">9263346</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>10</nome>
+			<data>2006</data>
+			<valores>
+				<valor grupo="Feminino">9427577</valor>
+				<valor grupo="Masculino">9653784</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>15</nome>
+			<data>2006</data>
+			<valores>
+				<valor grupo="Feminino">9823533</valor>
+				<valor grupo="Masculino">9917271</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>20</nome>
+			<data>2006</data>
+			<valores>
+				<valor grupo="Feminino">16711555</valor>
+				<valor grupo="Masculino">16409672</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>30</nome>
+			<data>2006</data>
+			<valores>
+				<valor grupo="Feminino">14300183</valor>
+				<valor grupo="Masculino">13588781</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>40</nome>
+			<data>2006</data>
+			<valores>
+				<valor grupo="Feminino">10911580</valor>
+				<valor grupo="Masculino">10262133</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>50</nome>
+			<data>2006</data>
+			<valores>
+				<valor grupo="Feminino">7102676</valor>
+				<valor grupo="Masculino">6562768</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>60</nome>
+			<data>2006</data>
+			<valores>
+				<valor grupo="Feminino">4769972</valor>
+				<valor grupo="Masculino">4123227</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>70</nome>
+			<data>2006</data>
+			<valores>
+				<valor grupo="Feminino">2721913</valor>
+				<valor grupo="Masculino">2175189</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>80</nome>
+			<data>2006</data>
+			<valores>
+				<valor grupo="Feminino">1190290</valor>
+				<valor grupo="Masculino">788578</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>0</nome>
+			<data>2007</data>
+			<valores>
+				<valor grupo="Feminino">1559463</valor>
+				<valor grupo="Masculino">1627389</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>1</nome>
+			<data>2007</data>
+			<valores>
+				<valor grupo="Feminino">6543752</valor>
+				<valor grupo="Masculino">6811168</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>5</nome>
+			<data>2007</data>
+			<valores>
+				<valor grupo="Feminino">8339487</valor>
+				<valor grupo="Masculino">8632021</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>10</nome>
+			<data>2007</data>
+			<valores>
+				<valor grupo="Feminino">8216870</valor>
+				<valor grupo="Masculino">8492940</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>15</nome>
+			<data>2007</data>
+			<valores>
+				<valor grupo="Feminino">8524043</valor>
+				<valor grupo="Masculino">8742850</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>20</nome>
+			<data>2007</data>
+			<valores>
+				<valor grupo="Feminino">17647492</valor>
+				<valor grupo="Masculino">17587693</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>30</nome>
+			<data>2007</data>
+			<valores>
+				<valor grupo="Feminino">14408868</valor>
+				<valor grupo="Masculino">13766702</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>40</nome>
+			<data>2007</data>
+			<valores>
+				<valor grupo="Feminino">12298583</valor>
+				<valor grupo="Masculino">11394623</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>50</nome>
+			<data>2007</data>
+			<valores>
+				<valor grupo="Feminino">8666885</valor>
+				<valor grupo="Masculino">7869533</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>60</nome>
+			<data>2007</data>
+			<valores>
+				<valor grupo="Feminino">5363426</valor>
+				<valor grupo="Masculino">4605331</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>70</nome>
+			<data>2007</data>
+			<valores>
+				<valor grupo="Feminino">3206293</valor>
+				<valor grupo="Masculino">2478184</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>80</nome>
+			<data>2007</data>
+			<valores>
+				<valor grupo="Feminino">1517918</valor>
+				<valor grupo="Masculino">1033677</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>0</nome>
+			<data>2004</data>
+			<valores>
+				<valor grupo="Feminino">1668508</valor>
+				<valor grupo="Masculino">1730743</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>1</nome>
+			<data>2004</data>
+			<valores>
+				<valor grupo="Feminino">6842535</valor>
+				<valor grupo="Masculino">7076280</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>5</nome>
+			<data>2004</data>
+			<valores>
+				<valor grupo="Feminino">8596445</valor>
+				<valor grupo="Masculino">8874815</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>10</nome>
+			<data>2004</data>
+			<valores>
+				<valor grupo="Feminino">9040213</valor>
+				<valor grupo="Masculino">9258382</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>15</nome>
+			<data>2004</data>
+			<valores>
+				<valor grupo="Feminino">9415607</valor>
+				<valor grupo="Masculino">9512007</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>20</nome>
+			<data>2004</data>
+			<valores>
+				<valor grupo="Feminino">15996813</valor>
+				<valor grupo="Masculino">15711311</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>30</nome>
+			<data>2004</data>
+			<valores>
+				<valor grupo="Feminino">13699842</valor>
+				<valor grupo="Masculino">13015970</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>40</nome>
+			<data>2004</data>
+			<valores>
+				<valor grupo="Feminino">10470950</valor>
+				<valor grupo="Masculino">9842620</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>50</nome>
+			<data>2004</data>
+			<valores>
+				<valor grupo="Feminino">6833481</valor>
+				<valor grupo="Masculino">6309080</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>60</nome>
+			<data>2004</data>
+			<valores>
+				<valor grupo="Feminino">4598263</valor>
+				<valor grupo="Masculino">3973873</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>70</nome>
+			<data>2004</data>
+			<valores>
+				<valor grupo="Feminino">2627141</valor>
+				<valor grupo="Masculino">2100599</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>80</nome>
+			<data>2004</data>
+			<valores>
+				<valor grupo="Feminino">1149878</valor>
+				<valor grupo="Masculino">762778</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>0</nome>
+			<data>2005</data>
+			<valores>
+				<valor grupo="Feminino">1718214</valor>
+				<valor grupo="Masculino">1782340</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>1</nome>
+			<data>2005</data>
+			<valores>
+				<valor grupo="Feminino">7045231</valor>
+				<valor grupo="Masculino">7285979</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>5</nome>
+			<data>2005</data>
+			<valores>
+				<valor grupo="Feminino">8845787</valor>
+				<valor grupo="Masculino">9132084</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>10</nome>
+			<data>2005</data>
+			<valores>
+				<valor grupo="Feminino">9296860</valor>
+				<valor grupo="Masculino">9520248</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>15</nome>
+			<data>2005</data>
+			<valores>
+				<valor grupo="Feminino">9685734</valor>
+				<valor grupo="Masculino">9780457</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>20</nome>
+			<data>2005</data>
+			<valores>
+				<valor grupo="Feminino">16470420</valor>
+				<valor grupo="Masculino">16173910</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>30</nome>
+			<data>2005</data>
+			<valores>
+				<valor grupo="Feminino">14097567</valor>
+				<valor grupo="Masculino">13395535</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>40</nome>
+			<data>2005</data>
+			<valores>
+				<valor grupo="Feminino">10762879</valor>
+				<valor grupo="Masculino">10120582</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>50</nome>
+			<data>2005</data>
+			<valores>
+				<valor grupo="Feminino">7011819</valor>
+				<valor grupo="Masculino">6477168</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>60</nome>
+			<data>2005</data>
+			<valores>
+				<valor grupo="Feminino">4711919</valor>
+				<valor grupo="Masculino">4072874</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>70</nome>
+			<data>2005</data>
+			<valores>
+				<valor grupo="Feminino">2689950</valor>
+				<valor grupo="Masculino">2149995</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>80</nome>
+			<data>2005</data>
+			<valores>
+				<valor grupo="Feminino">1176675</valor>
+				<valor grupo="Masculino">779847</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>0</nome>
+			<data>2010</data>
+			<valores>
+				<valor grupo="Feminino">1334712</valor>
+				<valor grupo="Masculino">1378532</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>1</nome>
+			<data>2010</data>
+			<valores>
+				<valor grupo="Feminino">5444460</valor>
+				<valor grupo="Masculino">5638455</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>5</nome>
+			<data>2010</data>
+			<valores>
+				<valor grupo="Feminino">7345231</valor>
+				<valor grupo="Masculino">7624144</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>10</nome>
+			<data>2010</data>
+			<valores>
+				<valor grupo="Feminino">8441348</valor>
+				<valor grupo="Masculino">8725413</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>15</nome>
+			<data>2010</data>
+			<valores>
+				<valor grupo="Feminino">8432002</valor>
+				<valor grupo="Masculino">8558868</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>20</nome>
+			<data>2010</data>
+			<valores>
+				<valor grupo="Feminino">17258381</valor>
+				<valor grupo="Masculino">17091222</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>30</nome>
+			<data>2010</data>
+			<valores>
+				<valor grupo="Feminino">15148771</valor>
+				<valor grupo="Masculino">14484322</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>40</nome>
+			<data>2010</data>
+			<valores>
+				<valor grupo="Feminino">12830135</valor>
+				<valor grupo="Masculino">12012583</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>50</nome>
+			<data>2010</data>
+			<valores>
+				<valor grupo="Feminino">9679282</valor>
+				<valor grupo="Masculino">8737339</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>60</nome>
+			<data>2010</data>
+			<valores>
+				<valor grupo="Feminino">6084830</valor>
+				<valor grupo="Masculino">5265099</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>70</nome>
+			<data>2010</data>
+			<valores>
+				<valor grupo="Feminino">3547194</valor>
+				<valor grupo="Masculino">2757891</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>80</nome>
+			<data>2010</data>
+			<valores>
+				<valor grupo="Feminino">1802463</valor>
+				<valor grupo="Masculino">1133122</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>0</nome>
+			<data>2011</data>
+			<valores>
+				<valor grupo="Feminino">1346861</valor>
+				<valor grupo="Masculino">1391014</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>1</nome>
+			<data>2011</data>
+			<valores>
+				<valor grupo="Feminino">5493758</valor>
+				<valor grupo="Masculino">5689160</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>5</nome>
+			<data>2011</data>
+			<valores>
+				<valor grupo="Feminino">7410533</valor>
+				<valor grupo="Masculino">7691375</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>10</nome>
+			<data>2011</data>
+			<valores>
+				<valor grupo="Feminino">8515319</valor>
+				<valor grupo="Masculino">8800925</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>15</nome>
+			<data>2011</data>
+			<valores>
+				<valor grupo="Feminino">8505394</valor>
+				<valor grupo="Masculino">8632275</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>20</nome>
+			<data>2011</data>
+			<valores>
+				<valor grupo="Feminino">17411547</valor>
+				<valor grupo="Masculino">17243446</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>30</nome>
+			<data>2011</data>
+			<valores>
+				<valor grupo="Feminino">15280640</valor>
+				<valor grupo="Masculino">14611631</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>40</nome>
+			<data>2011</data>
+			<valores>
+				<valor grupo="Feminino">12936709</valor>
+				<valor grupo="Masculino">12113122</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>50</nome>
+			<data>2011</data>
+			<valores>
+				<valor grupo="Feminino">9755947</valor>
+				<valor grupo="Masculino">8807405</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>60</nome>
+			<data>2011</data>
+			<valores>
+				<valor grupo="Feminino">6130514</valor>
+				<valor grupo="Masculino">5305119</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>70</nome>
+			<data>2011</data>
+			<valores>
+				<valor grupo="Feminino">3572685</valor>
+				<valor grupo="Masculino">2777732</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>80</nome>
+			<data>2011</data>
+			<valores>
+				<valor grupo="Feminino">1815248</valor>
+				<valor grupo="Masculino">1140928</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>0</nome>
+			<data>2008</data>
+			<valores>
+				<valor grupo="Feminino">1509084</valor>
+				<valor grupo="Masculino">1574832</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>1</nome>
+			<data>2008</data>
+			<valores>
+				<valor grupo="Feminino">6348947</valor>
+				<valor grupo="Masculino">6609475</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>5</nome>
+			<data>2008</data>
+			<valores>
+				<valor grupo="Feminino">8308636</valor>
+				<valor grupo="Masculino">8611064</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>10</nome>
+			<data>2008</data>
+			<valores>
+				<valor grupo="Feminino">8119176</valor>
+				<valor grupo="Masculino">8395431</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>15</nome>
+			<data>2008</data>
+			<valores>
+				<valor grupo="Feminino">8353543</valor>
+				<valor grupo="Masculino">8585322</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>20</nome>
+			<data>2008</data>
+			<valores>
+				<valor grupo="Feminino">17547210</valor>
+				<valor grupo="Masculino">17535222</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>30</nome>
+			<data>2008</data>
+			<valores>
+				<valor grupo="Feminino">14545142</valor>
+				<valor grupo="Masculino">13927754</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>40</nome>
+			<data>2008</data>
+			<valores>
+				<valor grupo="Feminino">12409923</valor>
+				<valor grupo="Masculino">11484092</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>50</nome>
+			<data>2008</data>
+			<valores>
+				<valor grupo="Feminino">8916547</valor>
+				<valor grupo="Masculino">8070375</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>60</nome>
+			<data>2008</data>
+			<valores>
+				<valor grupo="Feminino">5516145</valor>
+				<valor grupo="Masculino">4741148</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>70</nome>
+			<data>2008</data>
+			<valores>
+				<valor grupo="Feminino">3291616</valor>
+				<valor grupo="Masculino">2542879</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>80</nome>
+			<data>2008</data>
+			<valores>
+				<valor grupo="Feminino">1587533</valor>
+				<valor grupo="Masculino">1081718</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>0</nome>
+			<data>2009</data>
+			<valores>
+				<valor grupo="Feminino">1474664</valor>
+				<valor grupo="Masculino">1539025</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>1</nome>
+			<data>2009</data>
+			<valores>
+				<valor grupo="Feminino">6209355</valor>
+				<valor grupo="Masculino">6464883</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>5</nome>
+			<data>2009</data>
+			<valores>
+				<valor grupo="Feminino">8323561</valor>
+				<valor grupo="Masculino">8637102</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>10</nome>
+			<data>2009</data>
+			<valores>
+				<valor grupo="Feminino">8108224</valor>
+				<valor grupo="Masculino">8381307</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>15</nome>
+			<data>2009</data>
+			<valores>
+				<valor grupo="Feminino">8272143</valor>
+				<valor grupo="Masculino">8511943</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>20</nome>
+			<data>2009</data>
+			<valores>
+				<valor grupo="Feminino">17570313</valor>
+				<valor grupo="Masculino">17597650</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>30</nome>
+			<data>2009</data>
+			<valores>
+				<valor grupo="Feminino">14852679</valor>
+				<valor grupo="Masculino">14259769</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>40</nome>
+			<data>2009</data>
+			<valores>
+				<valor grupo="Feminino">12614307</valor>
+				<valor grupo="Masculino">11665684</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>50</nome>
+			<data>2009</data>
+			<valores>
+				<valor grupo="Feminino">9235659</valor>
+				<valor grupo="Masculino">8334691</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>60</nome>
+			<data>2009</data>
+			<valores>
+				<valor grupo="Feminino">5713465</valor>
+				<valor grupo="Masculino">4911937</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>70</nome>
+			<data>2009</data>
+			<valores>
+				<valor grupo="Feminino">3392732</valor>
+				<valor grupo="Masculino">2616817</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>80</nome>
+			<data>2009</data>
+			<valores>
+				<valor grupo="Feminino">1663342</valor>
+				<valor grupo="Masculino">1129793</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>0</nome>
+			<data>1999</data>
+			<valores>
+				<valor grupo="Feminino">1598290</valor>
+				<valor grupo="Masculino">1652989</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>1</nome>
+			<data>1999</data>
+			<valores>
+				<valor grupo="Feminino">6442066</valor>
+				<valor grupo="Masculino">6648212</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>5</nome>
+			<data>1999</data>
+			<valores>
+				<valor grupo="Feminino">8430678</valor>
+				<valor grupo="Masculino">8694116</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>10</nome>
+			<data>1999</data>
+			<valores>
+				<valor grupo="Feminino">9053131</valor>
+				<valor grupo="Masculino">9226852</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>15</nome>
+			<data>1999</data>
+			<valores>
+				<valor grupo="Feminino">8707290</valor>
+				<valor grupo="Masculino">8710797</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>20</nome>
+			<data>1999</data>
+			<valores>
+				<valor grupo="Feminino">14508395</valor>
+				<valor grupo="Masculino">14131581</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>30</nome>
+			<data>1999</data>
+			<valores>
+				<valor grupo="Feminino">12494306</valor>
+				<valor grupo="Masculino">11837076</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>40</nome>
+			<data>1999</data>
+			<valores>
+				<valor grupo="Feminino">8900777</valor>
+				<valor grupo="Masculino">8501330</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>50</nome>
+			<data>1999</data>
+			<valores>
+				<valor grupo="Feminino">5761651</valor>
+				<valor grupo="Masculino">5373559</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>60</nome>
+			<data>1999</data>
+			<valores>
+				<valor grupo="Feminino">3988641</valor>
+				<valor grupo="Masculino">3501693</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>70</nome>
+			<data>1999</data>
+			<valores>
+				<valor grupo="Feminino">2104268</valor>
+				<valor grupo="Masculino">1746914</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>80</nome>
+			<data>1999</data>
+			<valores>
+				<valor grupo="Feminino">891985</valor>
+				<valor grupo="Masculino">610500</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>0</nome>
+			<data>1998</data>
+			<valores>
+				<valor grupo="Feminino">1576121</valor>
+				<valor grupo="Masculino">1629959</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>1</nome>
+			<data>1998</data>
+			<valores>
+				<valor grupo="Feminino">6353757</valor>
+				<valor grupo="Masculino">6556458</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>5</nome>
+			<data>1998</data>
+			<valores>
+				<valor grupo="Feminino">8318517</valor>
+				<valor grupo="Masculino">8577661</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>10</nome>
+			<data>1998</data>
+			<valores>
+				<valor grupo="Feminino">8934306</valor>
+				<valor grupo="Masculino">9105946</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>15</nome>
+			<data>1998</data>
+			<valores>
+				<valor grupo="Feminino">8590409</valor>
+				<valor grupo="Masculino">8595667</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>20</nome>
+			<data>1998</data>
+			<valores>
+				<valor grupo="Feminino">14307500</valor>
+				<valor grupo="Masculino">13935779</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>30</nome>
+			<data>1998</data>
+			<valores>
+				<valor grupo="Feminino">12324842</valor>
+				<valor grupo="Masculino">11675302</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>40</nome>
+			<data>1998</data>
+			<valores>
+				<valor grupo="Feminino">8787169</valor>
+				<valor grupo="Masculino">8389771</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>50</nome>
+			<data>1998</data>
+			<valores>
+				<valor grupo="Feminino">5693988</valor>
+				<valor grupo="Masculino">5308362</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>60</nome>
+			<data>1998</data>
+			<valores>
+				<valor grupo="Feminino">3944116</valor>
+				<valor grupo="Masculino">3462463</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>70</nome>
+			<data>1998</data>
+			<valores>
+				<valor grupo="Feminino">2081951</valor>
+				<valor grupo="Masculino">1728566</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>80</nome>
+			<data>1998</data>
+			<valores>
+				<valor grupo="Feminino">882777</valor>
+				<valor grupo="Masculino">604437</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>0</nome>
+			<data>2012</data>
+			<valores>
+				<valor grupo="Feminino">1358871</valor>
+				<valor grupo="Masculino">1403403</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>1</nome>
+			<data>2012</data>
+			<valores>
+				<valor grupo="Feminino">5542333</valor>
+				<valor grupo="Masculino">5739986</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>5</nome>
+			<data>2012</data>
+			<valores>
+				<valor grupo="Feminino">7474673</valor>
+				<valor grupo="Masculino">7758474</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>10</nome>
+			<data>2012</data>
+			<valores>
+				<valor grupo="Feminino">8587202</valor>
+				<valor grupo="Masculino">8875967</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>15</nome>
+			<data>2012</data>
+			<valores>
+				<valor grupo="Feminino">8577046</valor>
+				<valor grupo="Masculino">8704999</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>20</nome>
+			<data>2012</data>
+			<valores>
+				<valor grupo="Feminino">17562246</valor>
+				<valor grupo="Masculino">17393558</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>30</nome>
+			<data>2012</data>
+			<valores>
+				<valor grupo="Feminino">15410113</valor>
+				<valor grupo="Masculino">14736999</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>40</nome>
+			<data>2012</data>
+			<valores>
+				<valor grupo="Feminino">13041087</valor>
+				<valor grupo="Masculino">12212809</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>50</nome>
+			<data>2012</data>
+			<valores>
+				<valor grupo="Feminino">9830449</valor>
+				<valor grupo="Masculino">8876466</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>60</nome>
+			<data>2012</data>
+			<valores>
+				<valor grupo="Feminino">6174929</valor>
+				<valor grupo="Masculino">5344287</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>70</nome>
+			<data>2012</data>
+			<valores>
+				<valor grupo="Feminino">3597382</valor>
+				<valor grupo="Masculino">2797287</valor>
+			</valores>
+		</dado>
+		<dado>
+			<nome>80</nome>
+			<data>2012</data>
+			<valores>
+				<valor grupo="Feminino">1827317</valor>
+				<valor grupo="Masculino">1148647</valor>
+			</valores>
+		</dado>
+	</dados>
+</tecnica>
