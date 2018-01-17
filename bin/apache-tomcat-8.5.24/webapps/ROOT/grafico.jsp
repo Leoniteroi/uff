@@ -1,12 +1,9 @@
 <!DOCTYPE html>
-  <!--<%@page contentType="text/html" pageEncoding="UTF-8"%>-->
-
+<!--<%@page contentType="text/html" pageEncoding="UTF-8"%>-->
 <link href="UFF.css" rel="stylesheet" type="text/css"/>
 <style type="text/css">
 @import url("../UFF.css");
 </style>
-
-
 <%@taglib uri="/vispublicaTagLib" prefix="vispublica" %>
 <html lang="en">
 <head>
@@ -14,13 +11,11 @@
 <title>Sistema DAQ/UFF</title>
 <link href="../favicon.ico" rel="icon" type="image/x-icon" />
 <link href="../favicon.ico" rel="shortcut icon" type="image/x-icon" />
-
 </head>
 
 <body>
 <div id="wrapper">
-  <div id="asf-box">
-  </div>
+  <div id="asf-box"> </div>
   <div id="banner">
     <div  id="banner-esquerda"><img src="../dnit.png" alt="[tomcat logo]" width="150" /></div>
     <div id="banner-direita"><img src="../uff.jpg" width="73" height="80"></div>
@@ -29,75 +24,69 @@
     <div id="congrats" class="curved TextoMargem">
       <h3>AÇÕES EXECUTIVAS DA DIRETORIA DE INFRAESTRUTURA AQUAVIÁRIA DO DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES PARA O APRIMORAMENTO E FOMENTO DA INFRAESTRUTURA AQUAVIÁRIA – EXPLORAÇÃO DO RIO MADEIRA</h3>
     </div>
-<!--
+    <!--
     <div id="actions">
       <div class="button"> <a class="TextoMargem shadow" href="/manager/status"><span>Server Status</span></a> </div>
       <div class="button"> <a class="TextoMargem shadow" href="/manager/html"><span>Manager App</span></a> </div>
       <div class="button"> <a class="TextoMargem shadow" href="/host-manager/html"><span>Host Manager</span></a> </div>
     </div>
--->
+--> 
   </div>
   <div id="middle">
     <h2>Banco de Informações</h2>
     <div id="informacao">
-		<div id="informacao1"> <a href="..">
+      <div id="informacao1"> <a href="..">
         <h3>Página Inicial</h3>
         </a></div>
-      <div id="informacao1"> <a href="/graficos/">
-        <h3>Gráficos Vispública</h3>
+      <div id="informacao1"> <a href="grafico.jsp">
+        <h3>Estrutura dos Arquivos</h3>
         </a></div>
-		<div id="informacao1">
+      <div id="informacao1">
         <h3><a href="../geoinf.html">Geoinformações</a></h3>
-       </div>
+      </div>
       <div id="informacao1">
         <h3><a href="../UFF2.qvf">Download Base no Qlik</a></h3>
-       </div>
-      
-		      <div id="informacao1">
+      </div>
+      <div id="informacao1">
         <h3>Download da Base no MySQL</h3>
-       </div>
+      </div>
     </div>
   </div>
-		<h2>Gráficos Vispública </h2>
-	<p>&nbsp;</p>
+  <h2>Estrutura dos Arquivos</h2>
+  <p>&nbsp;</p>
+	<canvas id="viewport" width="1000" height="800"></canvas>
   <div id="lower">
-    <div id="low-manage" class="">
-      <div class="curved TextoMargem">
-        <h3>Arvore Hiperbólica</h3>
-        XXXXXXXXXXXX
-        <p>&nbsp;</p>
-        <p>XXXXXXXXXXXXXX</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;Relatório (PDF)</p>
-      </div>
-    </div>
-    <div id="low-docs" class="">
-      <div class="curved TextoMargem">
-        <h3>Gráfico 02</h3>
-XXXXXXXXXXXX
-<p>&nbsp;</p>
-<p>XXXXXXXXXXXXXX</p>
-<p>&nbsp;</p>
-<p>&nbsp;Relatório (PDF)</p>
-      </div>
-    </div>
-    <div id=low-help class="">
-      <div class="curved TextoMargem">
-        <h3>Gráfico 03</h3>
-XXXXXXXXXXXX
-<p>&nbsp;</p>
-<p>XXXXXXXXXXXXXX</p>
-<p>&nbsp;</p>
-<p>&nbsp;Relatório (PDF)</p>
-      </div>
-    </div>
+	<div > 
+<!--
+    <div id="low-manage" class=""> </div>
+    <div id="low-docs" class=""> </div>
+    <div id=low-help class=""> </div>
     <br class="separator" />
-	   <br class="separator" />
-	  
-	  <%@taglib uri="/vispublicaTagLib" prefix="vispublica" %>
-  
-  
-  <vispublica:visualization id="visualizacao" visId= "1003" 
+    <br class="separator" />
+-->
+    
+   
+    <!-- run from the original source files: --> 
+    <!-- <script src="../../src/etc.js"></script>
+       <script src="../../src/kernel.js"></script>
+       <script src="../../src/graphics/colors.js"></script>
+       <script src="../../src/graphics/primitives.js"></script>
+       <script src="../../src/graphics/graphics.js"></script>
+       <script src="../../src/tween/easing.js"></script>
+       <script src="../../src/tween/tween.js"></script>
+       <script src="../../src/physics/atoms.js"></script>
+       <script src="../../src/physics/physics.js"></script>
+       <script src="../../src/physics/system.js"></script>
+       <script src="../../src/dev.js"></script> --> 
+    
+    <!-- run from the minified library file: --> 
+	 <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>   
+    <script src="lib/arbor.js"></script> 
+    <script src="lib/renderer.js"></script> 
+    <script src="lib/main.js"></script> 
+    <!--	  <%@taglib uri="/vispublicaTagLib" prefix="vispublica" %>--> 
+    
+    <!-- <vispublica:visualization id="visualizacao" visId= "1003" 
                               xml="<?xml version=\"1.0\" encoding=\"UTF-8\"?>
 <tecnica id=\"1003\">
 	<metadados>
@@ -214,8 +203,8 @@ XXXXXXXXXXXX
 	</dados>
 </tecnica>
 
-  " /> <br class="separator" />
-	  
+  " /> <br class="separator" />--> 
+    
   </div>
   <div id="footer" class="curved TextoMargem">
     <div class="col25">
@@ -231,7 +220,7 @@ XXXXXXXXXXXX
         <h4>Outros Documentos</h4>
         <ul>
           <ul>
-            <li><a>zzzzzzz</a></li>
+            <li><a> </a></li>
           </ul>
         </ul>
       </div>
@@ -242,8 +231,8 @@ XXXXXXXXXXXX
         <ul>
           <ul>
             <li><a href="http://portal.antaq.gov.br/">Agência Nacional de Transportes Aquaviários - ANTAQ</a></li>
-			   <li><a href="http://www.abiove.org.br/site/">Associação Brasileira das Índustrias de Óleos Vegetais - ABIOVE</a></li>
-			   <li><a href="http://www.mdic.gov.br/comercio-exterior/estatisticas-de-comercio-exterior/comex-vis">Visualizações de Comércio Exterior - ComexVis (Siscomex)</a></li>
+            <li><a href="http://www.abiove.org.br/site/">Associação Brasileira das Índustrias de Óleos Vegetais - ABIOVE</a></li>
+            <li><a href="http://www.mdic.gov.br/comercio-exterior/estatisticas-de-comercio-exterior/comex-vis">Visualizações de Comércio Exterior - ComexVis (Siscomex)</a></li>
           </ul>
         </ul>
       </div>
@@ -253,7 +242,7 @@ XXXXXXXXXXXX
         <h4>Diversos</h4>
         <ul>
           <ul>
-            <li><a>zzzzzzz</a></li>
+            <li><a> </a></li>
           </ul>
         </ul>
       </div>
